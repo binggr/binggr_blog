@@ -658,8 +658,7 @@ log4j.logger.java.sql.PrepareStatement=DEBUG
 
 
 
-
-## 特别感谢 (模板支持)
+## 开源页面模板
 
 ### 不落阁(https://www.leo96.com/)
 ### X-admin(http://x.xuebingsi.com/)
