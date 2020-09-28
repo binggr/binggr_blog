@@ -646,7 +646,7 @@ log4j.logger.java.sql.PrepareStatement=DEBUG
 
 #### 3、后面做的事
 
-##### （1）利用逆向工程生成简单的model层、mapper层（持久层）+*Mapper.xml文件，根据需求，增加和修改常用的sql语句
+##### （1）利用逆向工程生成简单的model层、mapper层（持久层）+*Mapper.xml文件，根据需求，增加常用的mapper层方法和sql映射。
 
 ##### （2）根据需求实现Service层与Controller层
 
@@ -658,10 +658,10 @@ log4j.logger.java.sql.PrepareStatement=DEBUG
 
 
 
-## 开源页面模板
+### 开源页面模板
 
-### 不落阁(https://www.leo96.com/)
-### X-admin(http://x.xuebingsi.com/)
+#### 不落阁(https://www.leo96.com/)
+#### X-admin(http://x.xuebingsi.com/)
 
 
 
