@@ -659,9 +659,10 @@ log4j.logger.java.sql.PrepareStatement=DEBUG
 
 
 
-## 特别感谢
+## 特别感谢 (模板支持)
 
-### 感谢不落阁(https://www.leo96.com/)和X-admin(http://x.xuebingsi.com/)的开源模板支持~~
+### 不落阁(https://www.leo96.com/)
+### X-admin(http://x.xuebingsi.com/)
 
 
 
